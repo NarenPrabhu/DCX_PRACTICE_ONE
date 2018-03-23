@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1521808360779
+Bnd-LastModified: 1521810187628
 Build-Jdk: 1.8.0_121
 Built-By: narprabh
 Bundle-Description: Core bundle for DCX_PROJECT_ONE

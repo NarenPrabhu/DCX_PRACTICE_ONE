@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--hello!
+<!--hello
  |  Copyright 2015 Adobe Systems Incorporated
  |
  |  Licensed under the Apache License, Version 2.0 (the "License");
@@ -19,7 +19,7 @@
     <groupId>com.cg</groupId>
     <artifactId>DCX_PROJECT_ONE</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
     <description>DCX_PROJECT_ONE</description>
     
     <modules>
