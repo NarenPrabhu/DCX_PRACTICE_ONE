@@ -19,7 +19,7 @@
     <groupId>com.cg</groupId>
     <artifactId>DCX_PROJECT_ONE</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.15-SNAPSHOT</version>
+    <version>0.0.14-SNAPSHOT</version>
     <description>DCX_PROJECT_ONE</description>
     
     <modules>
@@ -511,8 +511,6 @@
               <version>1.0.0</version>
               <scope>provided</scope>
 </dependency>
-
-
         </dependencies>
     </dependencyManagement>
 

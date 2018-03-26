@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.cg.DCX_PROJECT_ONE.core.models.TestHelloWorldModel" time="0.421" tests="1" errors="0" skipped="0" failures="0">
+<testsuite name="com.cg.DCX_PROJECT_ONE.core.models.TestHelloWorldModel" time="0.293" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="JOB_NAME" value="DCX_PROJECT_ONE_UIAPPS-DEPLOY"/>
+    <property name="JOB_NAME" value="DCX_PROJECT_ONE_CORE-DEPLOY"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="windows_tracing_logfile" value="C:\BVTBin\Tests\installpackage\csilogfile.log"/>
     <property name="NUMBER_OF_PROCESSORS" value="4"/>
@@ -25,12 +25,12 @@
     <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
     <property name="crx.port" value="4502"/>
     <property name="ProgramFiles" value="C:\Program Files"/>
-    <property name="BUILD_TIMESTAMP" value="18-03-26_14.50IST"/>
+    <property name="BUILD_TIMESTAMP" value="18-03-26_16.01IST"/>
     <property name="PROMPT" value="$P$G"/>
     <property name="user.language" value="en"/>
-    <property name="JOB_BASE_NAME" value="DCX_PROJECT_ONE_UIAPPS-DEPLOY"/>
-    <property name="RUN_CHANGES_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_UIAPPS-DEPLOY/2/display/redirect?page=changes"/>
-    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="JOB_BASE_NAME" value="DCX_PROJECT_ONE_CORE-DEPLOY"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_CORE-DEPLOY/6/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#6"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
     <property name="LOCALAPPDATA" value="C:\Users\narprabh\AppData\Local"/>
     <property name="java.version" value="1.8.0_121"/>
@@ -41,7 +41,7 @@
     <property name="NODE_NAME" value="master"/>
     <property name="crx.user" value="admin"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
-    <property name="BUILD_ID" value="2"/>
+    <property name="BUILD_ID" value="6"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
     <property name="file.encoding.pkg" value="sun.io"/>
@@ -57,14 +57,15 @@
     <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
     <property name="java.vm.info" value="mixed mode"/>
+    <property name="COPYARTIFACT_BUILD_NUMBER_DCX_PROJECT_ONE_CORE_BUILD" value="11"/>
     <property name="os.version" value="6.1"/>
-    <property name="RUN_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_UIAPPS-DEPLOY/2/display/redirect"/>
-    <property name="POM_VERSION" value="0.0.11-SNAPSHOT"/>
+    <property name="RUN_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_CORE-DEPLOY/6/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.10-SNAPSHOT"/>
     <property name="TMP" value="C:\Users\narprabh\AppData\Local\Temp"/>
     <property name="path.separator" value=";"/>
     <property name="java.vm.version" value="25.121-b13"/>
     <property name="user.variant" value=""/>
-    <property name="JOB_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_UIAPPS-DEPLOY/display/redirect"/>
+    <property name="JOB_DISPLAY_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_CORE-DEPLOY/display/redirect"/>
     <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="FP_NO_HOST_CHECK" value="NO"/>
@@ -82,7 +83,7 @@
     <property name="POM_GROUPID" value="com.cg"/>
     <property name="user.home" value="C:\Users\narprabh"/>
     <property name="PUBLIC" value="C:\Users\Public"/>
-    <property name="BUILD_TAG" value="jenkins-DCX_PROJECT_ONE_UIAPPS-DEPLOY-2"/>
+    <property name="BUILD_TAG" value="jenkins-DCX_PROJECT_ONE_CORE-DEPLOY-6"/>
     <property name="JENKINS_SERVER_COOKIE" value="836c6c62561b31bf"/>
     <property name="HUDSON_URL" value="http://fdbeaa27.ngrok.io/"/>
     <property name="ProgramData" value="C:\ProgramData"/>
@@ -96,7 +97,7 @@
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="maven.home" value="C:\Users\narprabh\Documents\apache-maven-3.5.2"/>
     <property name="java.class.path" value="C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.12-alpha-1.jar;C:\Users\narprabh\Documents\apache-maven-3.5.2\boot\plexus-classworlds-2.5.2.jar;C:\Users\narprabh\Documents\apache-maven-3.5.2/conf/logging"/>
-    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\narprabh\Documents\apache-maven-3.5.2\ C:\Users\narprabh\.jenkins\war\WEB-INF\lib\remoting-3.17.jar C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 59251"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Users\narprabh\Documents\apache-maven-3.5.2\ C:\Users\narprabh\.jenkins\war\WEB-INF\lib\remoting-3.17.jar C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar 51068"/>
     <property name="Path" value="C:\Program Files\Java\jdk1.8.0_121/bin;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\narprabh\Documents\apache-maven-3.5.2\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\CapgeminiScripts\Support Tools\;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Users\narprabh\AppData\Local\Programs\Git\cmd;C:\Program Files\Java\jdk1.8.0_121\bin"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
@@ -112,7 +113,7 @@
     <property name="HUDSON_HOME" value="C:\Users\narprabh\.jenkins"/>
     <property name="PATH+MAVEN" value="C:\Users\narprabh\Documents\apache-maven-3.5.2\/bin"/>
     <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
-    <property name="BUILD_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_UIAPPS-DEPLOY/2/"/>
+    <property name="BUILD_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_CORE-DEPLOY/6/"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="vault.timeout" value="30"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
@@ -121,28 +122,27 @@
     <property name="windows_tracing_flags" value="3"/>
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="user.dir" value="C:\Users\narprabh\Documents\GITWorkspaces\DCX_PROJECT_ONE\DCX_PROJECT_ONE"/>
-    <property name="JOB_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_UIAPPS-DEPLOY/"/>
+    <property name="JOB_URL" value="http://fdbeaa27.ngrok.io/job/DCX_PROJECT_ONE_CORE-DEPLOY/"/>
     <property name="crx.host" value="localhost"/>
     <property name="LOGONSERVER" value="\\WADINHYD05"/>
     <property name="USERDOMAIN" value="CORP"/>
     <property name="line.separator" value="&#10;"/>
     <property name="MAVEN_HOME" value="C:\Users\narprabh\Documents\apache-maven-3.5.2\"/>
     <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
-    <property name="BUILD_NUMBER" value="2"/>
+    <property name="BUILD_NUMBER" value="6"/>
     <property name="JENKINS_URL" value="http://fdbeaa27.ngrok.io/"/>
     <property name="PROCESSOR_REVISION" value="3c03"/>
     <property name="UATDATA" value="C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77"/>
     <property name="ProgramW6432" value="C:\Program Files"/>
-    <property name="COPYARTIFACT_BUILD_NUMBER_DCX_PROJECT_ONE_UIAPP_BUILD" value="7"/>
     <property name="windir" value="C:\WINDOWS"/>
     <property name="=C:" value="C:\Users\narprabh\Documents\Jenkins"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="SystemDrive" value="C:"/>
     <property name="maven3.interceptor" value="C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.12-alpha-1.jar"/>
-    <property name="WORKSPACE" value="C:\Users\narprabh\.jenkins\workspace\DCX_PROJECT_ONE_UIAPPS-DEPLOY"/>
+    <property name="WORKSPACE" value="C:\Users\narprabh\Documents\AEMProjectDeploy\com.adobe"/>
     <property name="maven3.interceptor.common" value="C:\Users\narprabh\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.12-alpha-1.jar"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="PSModulePath" value="C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules\"/>
   </properties>
-  <testcase name="testGetMessage" classname="com.cg.DCX_PROJECT_ONE.core.models.TestHelloWorldModel" time="0.421"/>
+  <testcase name="testGetMessage" classname="com.cg.DCX_PROJECT_ONE.core.models.TestHelloWorldModel" time="0.293"/>
 </testsuite>
