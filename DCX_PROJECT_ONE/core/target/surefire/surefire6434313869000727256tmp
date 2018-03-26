@@ -1,5 +1,5 @@
 #surefire
-#Mon Mar 26 11:46:22 IST 2018
+#Mon Mar 26 11:51:01 IST 2018
 tc.0=com.cg.DCX_PROJECT_ONE.core.models.TestHelloWorldModel
 classPathUrl.0=C\:\\Users\\narprabh\\Documents\\GITWorkspaces\\DCX_PROJECT_ONE\\DCX_PROJECT_ONE\\core\\target\\test-classes
 classPathUrl.1=C\:\\Users\\narprabh\\Documents\\GITWorkspaces\\DCX_PROJECT_ONE\\DCX_PROJECT_ONE\\core\\target\\classes
