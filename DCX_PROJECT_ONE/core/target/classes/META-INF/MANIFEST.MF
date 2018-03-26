@@ -1,21 +1,21 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1522045265198
+Bnd-LastModified: 1522056037507
 Build-Jdk: 1.8.0_121
 Built-By: narprabh
 Bundle-Description: Core bundle for DCX_PROJECT_ONE
 Bundle-ManifestVersion: 2
 Bundle-Name: DCX_PROJECT_ONE - Core
 Bundle-SymbolicName: com.cg.DCX_PROJECT_ONE.core
-Bundle-Version: 0.0.11.SNAPSHOT
+Bundle-Version: 0.0.12.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
 Export-Package: com.cg.DCX_PROJECT_ONE.core.filters;uses:="javax.servlet
- ";version="0.0.11",com.cg.DCX_PROJECT_ONE.core.listeners;uses:="org.osg
- i.service.event";version="0.0.11",com.cg.DCX_PROJECT_ONE.core.models;us
+ ";version="0.0.12",com.cg.DCX_PROJECT_ONE.core.listeners;uses:="org.osg
+ i.service.event";version="0.0.12",com.cg.DCX_PROJECT_ONE.core.models;us
  es:="javax.annotation,javax.inject,org.apache.sling.api.resource,org.ap
- ache.sling.models.annotations";version="0.0.11",com.cg.DCX_PROJECT_ONE.
+ ache.sling.models.annotations";version="0.0.12",com.cg.DCX_PROJECT_ONE.
  core;version="1.0",com.cg.DCX_PROJECT_ONE.core.schedulers;version="0.0.
- 11",com.cg.DCX_PROJECT_ONE.core.servlets;uses:="javax.servlet,org.apach
- e.sling.api,org.apache.sling.api.servlets";version="0.0.11"
+ 12",com.cg.DCX_PROJECT_ONE.core.servlets;uses:="javax.servlet,org.apach
+ e.sling.api,org.apache.sling.api.servlets";version="0.0.12"
 Import-Package: javax.inject;version="0.0.0",javax.annotation,javax.serv
  let,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.request
  ;version="[2.4,3)",org.apache.sling.api.resource;version="[2.5,3)",org.
