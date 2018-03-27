@@ -23,7 +23,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>DCX_PROJECT_ONE.core</artifactId>
-  <version>0.0.19-SNAPSHOT</version>
+  <version>0.0.20-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>DCX_PROJECT_ONE - Core</name>
     <description>Core bundle for DCX_PROJECT_ONE</description>

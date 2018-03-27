@@ -31,7 +31,7 @@
     <!-- P R O J E C T  D E S C R I P T I O N                                   -->
     <!-- ====================================================================== -->
     <artifactId>DCX_PROJECT_ONE.ui.apps</artifactId>
-  <version>0.0.23-SNAPSHOT</version>
+  <version>0.0.22-SNAPSHOT</version>
     <packaging>content-package</packaging>
     <name>DCX_PROJECT_ONE - UI apps</name>
     <description>UI apps package for DCX_PROJECT_ONE</description>

@@ -4,9 +4,9 @@
 <comment>DCX_PROJECT_ONE - UI apps</comment>
 <entry key="createdBy">narprabh</entry>
 <entry key="name">DCX_PROJECT_ONE.ui.apps</entry>
-<entry key="created">2018-03-27T12:00:15.192+0530</entry>
+<entry key="created">2018-03-27T14:33:47.886+0530</entry>
 <entry key="groupId">com.cg</entry>
-<entry key="version">0.0.20-SNAPSHOT</entry>
+<entry key="version">0.0.23-SNAPSHOT</entry>
 <entry key="requiresRoot">false</entry>
 <entry key="group">DCX_PROJECT_ONE Content Package</entry>
 <entry key="description">UI apps package for DCX_PROJECT_ONE</entry>
