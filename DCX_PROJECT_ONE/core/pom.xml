@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--Hello
+<!--Hello!!
  |  Copyright 2015 Adobe Systems Incorporated
  |
  |  Licensed under the Apache License, Version 2.0 (the "License");
@@ -23,7 +23,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>DCX_PROJECT_ONE.core</artifactId>
-  <version>0.0.21-SNAPSHOT</version>
+  <version>0.0.22-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>DCX_PROJECT_ONE - Core</name>
     <description>Core bundle for DCX_PROJECT_ONE</description>
