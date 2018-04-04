@@ -23,7 +23,7 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
     <artifactId>DCX_PROJECT_ONE.core</artifactId>
-  <version>0.0.22-SNAPSHOT</version>
+  <version>0.0.23-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <name>DCX_PROJECT_ONE - Core</name>
     <description>Core bundle for DCX_PROJECT_ONE</description>
@@ -146,5 +146,13 @@
               <groupId>org.apache.sling</groupId>
               <artifactId>org.apache.sling.models.impl</artifactId>
 </dependency>
+
+<!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpcore-osgi -->
+<dependency>
+    <groupId>org.apache.httpcomponents</groupId>
+    <artifactId>httpcore-osgi</artifactId>
+    <version>4.4.4</version>
+</dependency>
+
     </dependencies>
 </project>
